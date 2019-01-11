@@ -1,1 +1,1 @@
-summon blaze
+summon blaze ~1 ~1 ~1
